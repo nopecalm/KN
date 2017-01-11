@@ -1,2 +1,2 @@
 # KN
-tic-tac-toe
+Simple game - tic-tac-toe (krestiki-noliki).
