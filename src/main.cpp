@@ -8,7 +8,7 @@ using namespace std;
 
 void start()
 {
-    cout << "Welcome to the game!" << endl;
+    cout << "Welcome to the KN!" << endl;
 
     for(int i=0;i<3;i++)
     {
