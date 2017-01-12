@@ -51,8 +51,6 @@ bool stepCheck(string sRow, string sColumn)
         }
     }
 
-    cout << "cells[row][column] " << cells[row-1][column-1] << endl;
-
     if (cells[row-1][column-1] != '7')
     {
         return true;
